@@ -81,4 +81,4 @@ console.log(modal);
 modal.calMode();
 
 //Measures of dispersion
-//RANGE
+
